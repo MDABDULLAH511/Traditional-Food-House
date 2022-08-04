@@ -1,0 +1,332 @@
+/* ---------------@media(max-width:1440px)--------------- */
+@media(max-width:1441px) {
+    .new_menu_item_icon {
+        height: 70px;
+        width: 85px;
+    }
+}
+
+/* ---------------@media(max-width:1024)--------------- */
+@media(max-width:1025px) {
+    .new_menu_item_icon {
+        height: 70px;
+        width: 100px;
+    }
+}
+
+/* ---------------@media(max-width:991px)--------------- */
+@media(max-width:992px){
+    /* hrader part */
+    .navbar-nav {
+        background: transparent;
+    }
+    /* item part */
+    .item_details {
+        padding: 0;
+    }
+    /* .new_menu */
+    .new_menu_item_icon {
+        height: 65px;
+        width: 140px;
+    }
+    /* book here part */
+    .book_here_part input {
+        width: 70%;
+    }
+
+    .book_here_part input[type="submit"] {
+        width: 70%;
+    }
+
+    .book_here_part input[type=date] {
+        width: 70%;
+    }
+
+    .book_here_part select {
+        width: 70%;
+    }
+    /* .new_menu_part_02_ */
+    .new_menu_part_02_content {
+        padding: 30px 5px 30px 30px;
+    }
+
+    /* footer part */
+    .footer_content p {
+        padding-right: 60px;
+    }
+    .traditional_cuisine p {
+        margin: 20px;
+    }
+    .traditional_cuisine .circle {
+        margin: 20px;
+    }
+}
+
+/* ---------------@media(max-width:768px)--------------- */
+@media(max-width:767px) {
+
+    /* header part */
+    .navbar-nav {
+        background: #2f2c31;
+        text-align: center;
+        border-top-left-radius: 50px;
+        border-bottom-right-radius: 50px;
+        padding: 5px;
+        margin: auto;
+        margin-top: 10px;
+        width: 100%;
+    }
+
+    .toggler-icon {
+        color: #ffffff;
+        font-size: 23px;
+    }
+
+    .navbar-toggler {
+        border: none;
+        outline: none;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    /* banner part */
+    .hero_header_part {
+        min-height: 90vh;
+    }
+
+    .hero_part {
+        min-height: 70vh;
+    }
+
+    .hero_content {
+        padding: 25px 0;
+    }
+
+    .hero_content h2 {
+        font-size: 60px;
+    }
+
+    .hero_content h1 {
+        font-size: 55px;
+    }
+
+    .hero_content button {
+        padding: 6px 16px;
+        font-size: 14px;
+    }
+
+    /* .traditional_flavours_part */
+    .traditional_flavours_part {
+        padding: 35px 0 !important;
+    }
+
+    .traditional_flavours_text {
+        text-align: center;
+    }
+
+    .traditional_flavours_part p {
+        margin-bottom: 20px;
+    }
+
+    /* new_part */
+    .new_part {
+        padding: 35px 0 5px 0;
+        text-align: center;
+    }
+
+    .circle {
+        justify-content: center;
+    }
+
+    .new_part h5 {
+        margin: 5px 0 10px 0;
+    }
+
+    .new_part P {
+        margin-bottom: 30px;
+    }
+
+    /* item part */
+    .item_part {
+        padding: 35px 0px;
+    }
+
+    .item_header h2 {
+        font-size: 45px;
+    }
+
+    .item_details {
+        padding: 6px;
+    }
+
+    .item_2nd_row {
+        display: none;
+    }
+
+    .item_2nd_row_mobile {
+        display: block;
+    }
+
+
+    .flower {
+        display: none;
+    }
+
+    .traditional_cuisine {
+        padding: 35px 0;
+    }
+
+    .traditional_cuisine p {
+        margin: 20px 15px;
+    }
+
+    .traditional_cuisine ul li {
+        margin-right: 15px;
+    }
+
+    .traditional_cuisine .circle {
+        margin: 25px 0 10px 0;
+    }
+
+    /* new_menu part*/
+
+    .new_menu_top {
+        height: 130px;
+    }
+
+    .item_header h2 {
+        font-size: 40px;
+    }
+
+    .new_menu_item_content {
+        width: 80%;
+    }
+
+    .new_menu_item_content p {
+        line-height: 1;
+        width: 100%;
+    }
+
+    .new_menu_item_icon {
+        height: 70px;
+        width: 70px;
+    }
+
+
+    .new_menu_part_item {
+        padding: 0 !important;
+    }
+
+    /* item_header */
+    .item_header h2 {
+        font-size: 35px;
+    }
+
+    .submit_butoon {
+        display: block;
+    }
+
+    .submit_butoon_mobile {
+        display: none;
+    }
+
+    .booking_form {
+        text-align: center;
+    }
+    .book_here_part input {
+        width: 52%;
+    }
+
+    .book_here_part input[type="submit"] {
+        width: 52%;
+    }
+
+    .book_here_part input[type=date] {
+        width: 52%;
+    }
+
+    .book_here_part select {
+        width: 52%;
+    }
+
+    .submit_butoon {
+        display: none;
+    }
+
+    .submit_butoon_mobile {
+        display: block;
+    }
+
+    .book_here_part label {
+        margin-bottom: 2px;
+    }
+
+    /* new_menu_part_02 */
+    .new_menu_part_02_content {
+        padding: 20px 20px 35px 20px;
+    }
+    .new_menu_part_02_content h5 {
+        margin: 15px 0 5px 0;
+    }
+
+    /* socia_media_part */
+    .socia_media_part {
+        padding: 35px 0 35px 0;
+    }
+
+    .social_media_content ul li {
+        margin-right: 10px;
+    }
+
+    /* footer_content */
+    footer {
+        padding: 48px 0 20px 0;
+    }
+
+    .footer_content p {
+        padding-right: 0px;
+        color: #2d2f2a;
+        margin-bottom: 30px;
+    }
+
+    .battom_line span {
+        width: 70%;
+    }
+}
+
+/* ---------------@media(max-width:375px)--------------- */
+@media(max-width:376px) {
+
+    /* .new_menu part */
+    .new_menu_item_icon {
+        height: 65px;
+    }
+}
+
+/* ---------------@media(max-width:281px)--------------- */
+@media(max-width:281px) {
+
+    /* .new_menu part */
+    .new_menu_item_icon {
+        height: 60px;
+    }
+
+    /* book here part */
+    .book_here_part input {
+        width: 60%;
+    }
+
+    .book_here_part input[type="submit"] {
+        width: 60%;
+    }
+
+    .book_here_part input[type=date] {
+        width: 60%;
+    }
+
+    .book_here_part select {
+        width: 60%;
+    }
+}
